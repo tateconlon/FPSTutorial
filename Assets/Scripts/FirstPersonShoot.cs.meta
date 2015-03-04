@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 5e7787663ddc6e8408bbdbdad18bad8d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bullet_prefab: {fileID: 125080, guid: 59139b6b9042fdb4b8c56e996cce91c5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
